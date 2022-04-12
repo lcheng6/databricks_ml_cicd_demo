@@ -1,4 +1,4 @@
-name: Test pipeline
+name: Databricks Test Pipeline
 
 on:
   push:
