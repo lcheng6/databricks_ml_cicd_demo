@@ -19,10 +19,10 @@ new_cluster_config = """
 existing_cluster_id = '0412-043618-zxa3g8eg'
 # Path to the notebook with the integration test
 notebook_path = '/test/unittest_model'
-repo_path = '/Repos/lcheng6/databricks_ml_cicd_demo'
+repo_path = '/Repos/liangcheng@kl2tech.com/databricks_ml_cicd_demo'
 
 
-repos_path_prefix='/Repos/lcheng6/databricks_ml_cicd_demo'
+repos_path_prefix='/Repos/liangcheng@kl2tech.com/databricks_ml_cicd_demo'
 git_url = 'https://github.com/lcheng6/databricks_ml_cicd_demo'
 provider = 'gitHub'
 branch = 'main'
