@@ -100,4 +100,5 @@ try:
       else:
           time.sleep(5)
 finally:
-  repos_service.delete_repo(id=repo['id'])
+  # repos_service.delete_repo(id=repo['id'])
+  pass
