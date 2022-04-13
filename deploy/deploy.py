@@ -22,7 +22,7 @@ notebook_path = '/test/unittest_model'
 repo_path = '/Repos/lcheng6/databricks_ml_cicd_demo'
 
 
-repos_path_prefix='/Repos/michael.shtelma@databricks.com/databricks_ml_cicd_demo'
+repos_path_prefix='/Repos/lcheng6/databricks_ml_cicd_demo'
 git_url = 'https://github.com/lcheng6/databricks_ml_cicd_demo'
 provider = 'gitHub'
 branch = 'main'
