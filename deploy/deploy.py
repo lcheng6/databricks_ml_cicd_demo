@@ -16,7 +16,7 @@ new_cluster_config = """
 }
 """
 # Existing cluster ID where integration test will be executed
-existing_cluster_id = '0412-043618-zxa3g8eg'
+existing_cluster_id = '0413-002943-eg3ixorj' # cluster ml-initial-cluster-wout-gpu
 # Path to the notebook with the integration test
 notebook_path = '/test/unittest_model'
 repo_path = '/Repos/liangcheng@kl2tech.com/databricks_ml_cicd_demo'
